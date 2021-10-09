@@ -17,3 +17,7 @@ https://matplotlib.org/stable/gallery/index.html
 For more examples:
 
 https://coderbyte.com/interview-kit/algorithms
+
+
+
+For scientific python, see https://github.com/happidence1/Scipy/blob/main/Scientific-Python.ipynb
