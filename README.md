@@ -21,3 +21,6 @@ https://coderbyte.com/interview-kit/algorithms
 
 
 For scientific python, see https://github.com/happidence1/Scipy/blob/main/Scientific-Python.ipynb
+
+
+https://www.linkedin.com/learning/python-essential-training-18764650/python-challenge-project?resume=false
