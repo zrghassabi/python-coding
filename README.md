@@ -24,3 +24,5 @@ For scientific python, see https://github.com/happidence1/Scipy/blob/main/Scient
 
 
 https://www.linkedin.com/learning/python-essential-training-18764650/python-challenge-project?resume=false
+
+https://github.com/LinkedInLearning/python-ET-4314028/tree/main
